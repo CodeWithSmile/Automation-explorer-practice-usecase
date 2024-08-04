@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileName&Sequence_2",
+        "File&Sequence_2",
+        "InvoicesList&Sequence_1",
+        "InvoiceDirectory&Sequence_1",
+        "FileArray&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart-SwitchCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileArray&Flowchart_3",
+        "Index&Flowchart_3",
+        "File&Flowchart_3",
+        "FileName&Flowchart_3",
+        "InvoicesDirectory&Flowchart_3",
+        "DestinationPath&Flowchart_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
